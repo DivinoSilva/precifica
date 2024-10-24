@@ -12,6 +12,6 @@ class Category
   end
 
   def food_discount_rating
-    5
+    eligible_for_food_discount? ? 5 : 0
   end
 end
