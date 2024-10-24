@@ -13,6 +13,7 @@ O serviço inclui dois tipos de descontos: um para categorias específicas de pr
 ## Requisitos
 
 - Ruby 3.x ou superior
+- Rspec para testes
 
 ## Instalação
 
